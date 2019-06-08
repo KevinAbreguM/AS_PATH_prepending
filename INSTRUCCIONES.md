@@ -1,8 +1,7 @@
 INSTRUCCIONES DE UTILIZACIÓN DEL CÓDIGO.
 
 El proyecto se divide en distintas fases, debido a los largos tiempos de procesamiento, para agilizar las pruebas y obtener
-resultados intermedios. Aún así, el tiempo de procesamiento completo es superior a una semana (aunque puede variar dependiendo de
-la memoria RAM disponible)
+resultados intermedios. Aún así, el tiempo de procesamiento completo es bastante superior a una semana (aunque puede variar dependiendo de la memoria RAM disponible)
 
 Se puede utilizar tanto Python 2 como Python 3, aunque se recomienda utilizar Python 3 al menos en la fase de representación
 de resultados.
