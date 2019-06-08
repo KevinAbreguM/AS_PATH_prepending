@@ -10,10 +10,15 @@ El orden de las carpetas empleado es:
 
 TFM-BGP:
   1. Kevin
+  
     - *.py
+    
     - ResultadosCSV
+    
     - Prefijos
+    
     - Prefijos_imagenes
+    
     - ASes
     - ASes_imagenes
     - Longitudes
