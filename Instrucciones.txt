@@ -53,7 +53,8 @@ obtencion_info_general para todos los colectores)
   2. Agrupacion_Prefijos_Mas_Especificos_long24 (OPCIONAL)
   3. obtencion_info_ASes_global (OPCIONAL)
   
-Representaciones (Se recomienda utilizar python 3):
+Representaciones (Se recomienda utilizar python 3) (Tienen que haber terminado 
+las ejecuciones de obtencion_info_general) :
 
   A Nivel prefijos por monitor y obtencion de la distribución por tipo de monitor (proveedores o peers/clientes)
   
