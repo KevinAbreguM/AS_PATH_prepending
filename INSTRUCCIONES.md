@@ -8,9 +8,8 @@ de resultados.
 
 El orden de las carpetas empleado es:
 
-TFM-BGP:
-  1. Kevin
-  
+TFM-BGP
+ Kevin
     - *.py
     - ResultadosCSV   
     - Prefijos 
