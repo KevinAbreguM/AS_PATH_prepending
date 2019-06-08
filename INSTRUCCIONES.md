@@ -57,27 +57,34 @@ obtencion_info_general para todos los colectores)
 Representaciones (Se recomienda utilizar python 3):
 
   A Nivel prefijos por monitor y obtencion de la distribución por tipo de monitor (proveedores o peers/clientes)
+  
     1. Analisis_prefijos
     
   A nivel de ASes origen
+  
     1. Procesado_ASes_Origen
     
   A nivel de ASes transito
+  
     1. Procesado_ASes_Transito
   
   A nivel de AS_PATH
+  
     1. Procesado_ASPATH
     2. Procesado_ASPATH_colector (opcional)
    
   A nivel de longitudes de prefijos
+  
     1. Procesado_Longitudes_Prefijo
     2. Procesado_Prepending_PrefijosBase_Longitud24 (opcional) (Unicamente si se ha ejecutado previamente
       Agrupacion_Prefijos_Mas_Especificos_long24)
   
   A nivel de prefijos mas especificos
+  
     1. Procesado_Prefijos_Mas_Especificos
   
   A nivel de pares prefijos + AS vecino
+  
     1. Procesado_Prefijos_Vecinos
     2. Procesado_Prefijos_Vecinos_Colector (opcional)
   
