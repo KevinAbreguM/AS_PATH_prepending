@@ -7,6 +7,8 @@ la memoria RAM disponible)
 Se puede utilizar tanto Python 2 como Python 3, aunque se recomienda utilizar Python 3 al menos en la fase de representación
 de resultados.
 
+Se recomienda mantener un formato de carpetas similar, o modificar el código para establecer el formato de carpetas deseado
+
 El orden de las carpetas empleado es:
 
 TFM-BGP
