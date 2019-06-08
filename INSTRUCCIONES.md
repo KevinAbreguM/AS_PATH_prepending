@@ -29,7 +29,9 @@ TFM-BGP
 
 
 *Todas las carpetas dentro de resultadosCSV deben contener una carpeta denominada DiaRCC
+
 *Dentro de la carpeta Kevin se incluyen todo el codigo (todos los ficheros .py) al mismo nivel.
+
 *El formato de carpetas se puede modificar cambiando las rutas incluidas.
 
 
