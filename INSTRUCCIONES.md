@@ -9,7 +9,7 @@ de resultados.
 El orden de las carpetas empleado es:
 
 
- 1. TFM-BGP 
+1. TFM-BGP 
      1.1. Kevin
         1.1.1 *.py
         1.1.2 ResultadosCSV
@@ -25,6 +25,7 @@ El orden de las carpetas empleado es:
         1.1.12 ASPATH_imagenes
         1.1.13 Prefijos_Vecinos
         1.1.14 Prefijos_Vecinos_imagenes
+
 *Todas las carpetas dentro de resultadosCSV deben contienen una carpeta denominada DiaRCC
 *Dentro de la carpeta Kevin se incluyen todos el codigo (todos los ficheros .py) al mismo nivel.
 *El formato de carpetas se puede modificar cambiando las rutas incluidas.
