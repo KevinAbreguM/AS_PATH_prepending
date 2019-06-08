@@ -12,13 +12,9 @@ TFM-BGP:
   1. Kevin
   
     - *.py
-    
-    - ResultadosCSV
-    
-    - Prefijos
-    
-    - Prefijos_imagenes
-    
+    - ResultadosCSV   
+    - Prefijos 
+    - Prefijos_imagenes   
     - ASes
     - ASes_imagenes
     - Longitudes
